@@ -57,3 +57,7 @@ footer {
   background-color: #343a40;
   text-align: center;
 }
+/*追加*/
+.card {
+  border-radius: 0;
+}
